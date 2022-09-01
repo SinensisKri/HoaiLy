@@ -1,0 +1,245 @@
+[i]"Ly Ly, dậy còn đi học nào. Em bảo muốn đến trường lắm mà, không dậy là trễ đấy."[/i]
+
+*page_break ...Ai vậy...buồn ngủ quá
+
+Ánh mặt trời buổi sớm chiếu qua khung cửa sổ bằng kính, hắt vào trong phòng, rơi trên người thiếu niên còn đang say giấc. Hoài Nguyên đẩy cửa vào, nhẹ bước đi đến bên giường, nhìn công chúa nhỏ nhà mình cuộn trong ổ chăn. Ngũ quan tinh xảo, khuôn mặt nhỏ nhắn xinh đẹp, dù cho có nét gầy ốm của bệnh tật cũng chẳng thể che đi sự mỹ lệ của thiếu niên ngược lại tạo nên cảm giác mong manh như thể một viên pha lê quý giá không cẩn thận sẽ vỡ nát. Hoài Nguyên hơi vuốt phần tóc mai rơi trên khuôn mặt em, mở miệng gọi:
+
+"Ly Ly, dậy nào."
+
+Hoài Ly mơ màng ưm một tiếng như đáp lại, xoay người lại tiếp tục ngủ, cả người hơi cuộn lại như một con mèo nhỏ. Hoài Nguyên bật cười, xoa xoa mái tóc mềm mại của em, "Ly Ly, dậy còn đi học nào. Em bảo muốn đến trường lắm mà, không dậy là trễ đấy."
+
+Nghe tới "đến trường" Hoài Ly mới nhập nhèm mở mắt, em lơ mơ nhìn Hoài Nguyên, vẫn chưa hiểu chuyện gì đang xảy ra, "Ai vậy… Đến trường?"
+
+"Đúng rồi, Ly Ly có muốn đến trường không?" 
+
+Hoài Ly nhìn bóng người trước giường, cuối cùng cũng tỉnh táo lại một chút. Phải rồi, hôm nay là ngày đầu tiên em đến trường sau mấy năm học tại nhà. Chẳng là Hoài Ly mắc hen suyễn bẩm sinh, cộng thêm từ nhỏ đã yếu ớt hơn người thường, mắc bệnh liên miên nên gia đình lo lắng không cho em đến trường. Hồi cấp 2 năn nỉ mãi được đi học thì lại xảy ra một vài chuyện nên nghỉ tới giờ…
+
+"Anh hai…" 
+
+*choice
+    #Tiếp tục ngủ
+        *set coddle +1
+       Hai mắt Hoài Ly sụp xuống, cuối cùng thì con tim chiến thắng lý trí, em quyết định ngủ tiếp. [i]Dù sao vẫn còn sớm mà, ngủ thêm một chút chắc cũng không sao đâu.[/i] 
+       
+       "Cho em ngủ thêm chút nữa đi…"
+       
+       Hoài Nguyên thấy vậy cũng không nài ép, anh chiều Hoài Ly quen rồi, trừ những cái tối quan trọng thì anh đều chiều Hoài Ly cả, "Vậy ngủ tiếp đi, heo lười." Anh cười cười, hôn lên trán Hoài Ly một cái rồi ra khỏi phòng.
+       
+       "Hả…? Ai là heo chứ. Anh mới là heo." Hoài Ly mơ màng kháng nghị, giọng nói của em nhỏ dần cho đến khi tiếp tục chìm vào giấc ngủ.
+       
+       
+       *page_break 30 phút sau
+       *set emotion -1
+       
+       Hoài Ly hơi cựa mình, lông mi rung lên, từ từ mở mắt. Em ngồi dậy, đôi mắt đen xinh đẹp chứa một hàng sương mờ, Hoài Ly còn chưa tỉnh hẳn. Em ngơ ngác nhìn sang đồng hồ bên cạnh, hai mắt mở to, cơn buồn ngủ cũng tan mất.
+       
+       [b]7 giờ 12?!![/b]
+       
+       "Anh hai!! Anh không gọi em dậy à!" Hoài Ly vội vàng xuống giường, vừa thay đồng phục vừa nói vọng ra. 7 giờ 30 là vào lớp mà giờ đã 12 rồi, muộn học mất.
+       
+       Hoài Ly vào phòng tắm đánh răng rửa mặt, chải đầu chải tóc xong xuôi đi xuống đã gần 20. Em vội vàng lấy đồ ăn sáng rồi gọi tài xế đưa mình đi học. Lúc đi ngang qua phòng khách thấy Hoài Nguyên ngồi trên ghế sô pha đọc tài liệu, Hoài Ly lại lần nữa lên án anh không gọi mình dậy.
+       
+       "Anh có gọi em dậy, chỉ là heo lười nào đó muốn ngủ tiếp thôi." Hoài Nguyên nhìn Hoài Ly phụng phịu hờn dỗi mà chỉ cảm thấy em trai nhà mình đáng yêu quá mức, đến cả tức giận cũng đáng yêu như vậy. Nếu Hoài Ly biết suy nghĩ của Hoài Nguyên chắc phải giận dỗi mấy ngày.
+       
+       Hoài Ly hừ một tiếng không trả lời, đi thẳng ra cửa.
+       
+       *page_break Tới trường
+       
+       Xe dừng lại trước cổng trường, Hoài Ly bước xuống xe. Lúc này sân trường đã chẳng còn bóng người, chỉ nghe thấy xa xa tiếng học sinh ồn ào trong lớp học. Hoài Ly quan sát một vòng quanh trường, khuôn viên trường cực kỳ đẹp - nền lát đá ngay ngắn, những hàng cây xanh mướt, đài phun nước ngay giữa sân trường, ngoài ra còn có cả hồ sen, thư viện và sân bóng. Nhưng dù đẹp cách mấy thì giờ phút này Hoài Ly cũng không còn thời gian mà nhìn ngắm, em vội vàng cầm cặp sách chạy tới lớp.
+       
+       Hoài Ly học 11A4, là một lớp thuộc ban tự nhiên. Vì em không quen ai khối 11 nên lớp nào cũng như nhau, Hoài gia để nhà trường tự phân. 
+       
+       *page_break Tới lớp
+       *label classroom1
+       Hoài Ly theo trí nhớ tới tòa nhà A ban tự nhiên, dọc theo hành lang tìm 11A4. Từ cửa sổ kính, Hoài Ly có thể nhìn thấy các học sinh ngoan ngoãn ngồi ở bàn học, thầy cô giáo đi lại trên bục giảng dặn dò điều gì đó. 
+       
+       Bước chân Hoài Ly dừng lại trước cửa 11A4, em gõ nhẹ hai cái rồi mở cửa nói, "Em xin phép cô vào lớp."
+       
+       Nghe thấy tiếng động, các học sinh vốn còn đang nhốn nháo đều đồng loạt nhìn về hướng này, tất cả ngây như phỗng, không ai nói gì. Bọn họ biết hôm nay có học sinh mới chuyển đến nhưng nào ngờ học sinh đó lại xinh đẹp đến mức này, mi mục như họa, mắt ngọc mày ngài, ngũ quan tinh xảo đẹp đến phi giới tính. Mãi cho đến khi cô chủ nhiệm - Mạc Liên lên tiếng mới hoàn hồn:
+       
+       "Vào đi. À nhân đây cô cũng giới thiệu với cả lớp bạn Hoài Ly, học sinh mới của lớp ta. Sức khỏe bạn không tốt, các em giúp đỡ bạn nhiều hơn nhé." Mạc Liên ngừng lại một chút, quay sang Hoài Ly nói tiếp, "Hoài Ly, em lên đây giới thiệu về bản thân cho cả lớp biết nào." Ánh mắt của Mạc Liên cực kỳ dịu dàng, cô biết học sinh mới này có gia thế không đơn giản, hơn nữa thành tích học tập cũng tốt lại ngoan ngoãn thì thầy cô nào mà không thích cho được. 
+       
+       Hoài Ly đi vào, đứng trên bục giảng, em có chút lúng túng vẫy tay, "Mình là Hoài Ly… mong năm học này sẽ trải qua nhiều kỷ niệm đẹp với mọi người."
+       
+       Ở dưới tiếng vỗ tay vang lên ầm ầm đến nỗi Hoắc Thạc đang nằm sấp trên bàn cũng phải ngẩng đầu xem chuyện gì. Hắn nhíu mày, nhìn lên bục giảng.[i]Trắng nõn, nhỏ nhắn…con trai mà trông thế này sao? Kiểu… không biết nói sao nhưng rất gây chú ý.[/i]
+       
+       Trong lớp chỉ còn mỗi chỗ cạnh hắn là trống, có lẽ bạn học mới sẽ ngồi đây. Nghĩ vậy, Hoắc Thác có hơi mong chờ. 
+      
+       "Được rồi, Hoài Ly ngồi cạnh lớp trưởng nhé. Sở Tư đổi chỗ xuống cạnh Hoắc Thác." Đương nhiên Mạc Liên biết trong lớp còn mỗi chỗ Hoắc Thạc là trống, vì có ai muốn ngồi cùng "bưởng" trường đâu. Nhưng để Hoài Ly ngồi đó cô khá lo lắng, tốt nhất là không vẫn hơn.
+       
+       Sở Tư chậm rì rì thu dọn đồ đạc, dù cậu cũng chẳng thích ngồi cạnh lớp trưởng suốt ngày mặt lạnh tanh nhưng còn đỡ chán so với ngồi cạnh thành phần bất hảo nào đó. 
+       
+       "Cảm ơn cậu nhé." 
+       
+       Đang rất không tình nguyện, Sở Tư chợt nghe thấy một giọng nói mềm nhẹ bên tai. Cậu ngơ ra một chút, quay sang nhìn. Đó là học sinh mới đang mỉm cười ngại ngùng với cậu, nụ cười ngọt dịu như nắng sớm mùa xuân. Sở Tư cảm giác tim mình đang đập loạn lên, cậu đỏ mặt, "Không… không có gì..Cậu không cần cảm ơn đâu!!"
+       
+       Mặt Hoắc Thạc tối đen, [i]sao Mạc Liên lại không để học sinh mới ngồi với hắn cơ chứ [/i]. Hắn liếc Sở Tư đang nói cười vui vẻ bên trên, tâm trạng càng xấu đi, "Nhanh cái tay lên." Hoắc Thạc nói lớn cắt đứt dòng suy nghĩ của Sở Tư. Trong lòng còn bất mãn nhưng Sở Tư cũng nhanh chóng dọn đồ hơn.
+       
+       ___
+       
+       Sau khi ổn định chỗ ngồi, Mạc Liên dặn dò một số việc đầu năm rồi bắt đầu phát sách vở và đồng phục. Những thứ này gia đình đã chuẩn bị kỹ cho Hoài Ly nên em không cần lên lấy. Hoài Ly nghịch nghịch lọn tóc, lén nhìn sang bên cạnh. Ngồi cùng bàn Hoài Ly là lớp trưởng, hình như tên Hạ Tư Vũ thì phải. Em có nên bắt chuyện không?
+       
+       *choice
+           #Bắt chuyện
+               .
+           #Không bắt chuyện
+               . 
+
+    #Thức dậy
+       Dù còn rất buồn ngủ nhưng Hoài Ly vẫn cố mở mắt ngồi dậy. Đã mấy năm rồi Hoài Ly mới tới trường, không thể ngày đầu đã tới trễ được, "Em dậy rồi…" Hoài Ly khẽ khàng nói, giọng điệu vẫn còn có chút ngái ngủ.
+       
+       "Anh xuống trước, xong thì xuống ăn sáng nhé." Hoài Nguyên xoa xoa đầu Hoài Ly rồi ra khỏi phòng.
+       
+       Hoài Ly bước xuống giường, vào phòng tắm đánh răng rửa mặt, chải đầu tóc, thay đồng phục. Đồng phục trường Hoài Ly bao gồm áo sơ mi trắng, quần tây và vest đen khoác ngoài, em mặc vào xinh đẹp quý khí không khác gì một tiểu vương tử bước ra từ đồng thoại.
+       
+       Trường Hoài Ly theo học là một trường tư tốt nhất trong tỉnh, thanh mai trúc mã của em - Trịnh Diệp Phương cũng học ở đây.
+       
+       Lúc Hoài Ly xuống tầng đã thấy anh hai ngồi đợi sẵn ở bàn ăn, hôm nay bữa sáng có bánh mì với mứt dâu - món ăn yêu thích của em, Hoài Ly hảo ngọt nên những thứ gì ngọt ngào đều thích cả. Ăn xong, Hoài Ly cầm cặp sách đi ra xe chuẩn bị tới trường học. Em không muốn cao điệu nên chỉ để tài xế chở mình bằng một chiếc xe tầm trung không có gia huy của gia tộc, Hoài Nguyên thấy thế trong lòng không đồng tình nhưng vẫn thuận theo em.
+       
+       *page_break Tới trường 
+       
+       Xe dừng lại trường cổng trường, ngay khi Hoài Ly bước xuống xe gần như mọi ánh mắt đều đổ dồn đến hướng này. Đa phần đều vì diện mạo của thiếu niên quá bắt mắt. Hoài Ly rất đẹp, đẹp kiểu mềm mại ngoan ngoãn, làn da trắng nõn, mái tóc nâu đen màu hạt dẻ, mắt hạnh trong trẻo, thoạt nhìn tựa như thiên sứ nhỏ lạc xuống nhân gian.
+       
+       Có tiếng khe khẽ bàn tàn, bọn họ tò mò không biết thiếu niên là ai, nếu trong trường có một người đẹp đến như vậy thì hẳn phải nổi tiếng rồi. [i]Có lẽ là học sinh mới chuyển tới?[/i]
+       
+       Hoài Ly không để ý tiếng thảo luận xung quanh, hay nói đúng hơn em không biết người ta đang nói về mình. Đã lâu không đi học, thứ gì với Hoài Ly cũng thấy lạ lẫm. Em quan sát một vòng xung quanh, khuôn viên trường cực kỳ đẹp - nền lát đá ngay ngắn, những hàng cây xanh mướt, đài phun nước ngay giữa sân trường, ngoài ra còn có cả hồ sen, thư viện và sân bóng ở xa xa.
+       
+       Hoài Ly ngửa cổ tay xem đồng hồ, giờ vẫn còn sớm, đủ thời gian để em dạo một vòng quanh trường. Tuy nhiên nếu không cẩn thận vẫn có thể trễ giờ.
+       
+       *choice
+           #Dạo quanh trường
+              [i]Không sao, vẫn còn thừa nhiều thời gian.[/i] Nghĩ vậy, Hoài Ly cũng không vội vàng vào lớp, lâu không đi học em cũng muốn khám phá thêm về trường.
+              
+              Khuôn viên trường rất rộng, cũng đúng thôi vì đây là trường tư tốt nhất trong tỉnh, lọt top đầu trường xa hoa nhất cả nước. Hoài Ly nhìn bản đồ trường dán trên bảng thông báo, có rất nhiều địa điểm nhưng em không thể đi hết được. Nghĩ một hồi, Hoài Ly đi về phía rừng hoa.
+              
+             Đúng như tên gọi của "rừng hoa", ở đây có rất nhiều cây lớn được trồng san sát nhau tạo thành một hàng dài, có hoa đào, hoa bằng lăng, hoa phượng và nhiều loại hoa khác. Giờ đang là mùa hoa phượng nở nên đi vào chỉ thấy một màu đỏ thắm, cả một vùng trời bị nhuốm đỏ một màu hoa.
+             
+             Rừng hoa khá vắng, có lẽ vì bây giờ là đầu giờ nên cũng chưa ai tới đây… Đột nhiên, Hoài Ly nghe thấy tiếng ồn ào ở đằng xa, hình như là tiếng đánh nhau.
+             
+             "Cái loại con riêng như mày mà xứng vào cái trường này à? Thứ rác rưởi như mày tới đây chỉ để chướng mắt người khác."
+             
+             Tiếng quát chói tai vang lên xen lẫn là tiếng chửi rủa và đánh đập… Đây là bạo lực học đường?
+             
+             *choice
+               #Giúp đỡ
+                   *set glacial -2
+                   *set emotion -2
+                   Hoài Ly đi theo tiếng ồn ào, khẽ bước đến gần nơi xảy ra chuyện. Đó là một góc khá khuất trong khuân viên trường, một thiếu niên ngã trên mặt đất, cúi đầu không thấy rõ mặt, vây quanh là một đám thiếu niên khác vẻ mặt khinh thường ngạo mạn.
+                   
+                   Hoài Ly nhíu mày, lần đầu cảm nhận rõ ràng sự ác ý đến vậy. Em phân vân không biết nên làm gì, em chưa từng gặp qua trường hợp như thế này. Trong lúc Hoài Ly còn suy nghĩ không biết làm thế nào thì đám người kia đã tiếp tục ẩu đả thiếu niên, có người còn dẫm lên bàn tay cậu, mũi chân di di như muốn nghiền nát.
+                   
+                   Ngay lúc này, Hoài Ly bỗng lên tiếng:
+                   
+                   "Đường qua thư viện là hướng đó ạ? Em cảm ơn cô… Vâng, em sẽ vào lớp ngay, em qua lấy mấy quyển sách ạ." Giọng nói không lớn nhưng đủ để tất cả nghe thấy. Mềm mại, ngoan ngoãn, dễ nghe.
+                   
+                   Nghe thấy có tiếng nói chuyện, cả đám ngẩn ra, có vẻ như không nghĩ sẽ có người tới. Bọn họ dừng lại, một thiếu niên tóc vàng - dường như là cầm đầu của cả đám - nhìn đồng hồ trên tay rồi liếc qua thiếu niên còn ngã trên mặt đất:
+                   
+                   "Chậc, cũng sắp vào lớp rồi. Tha cho mày đấy." 
+                   
+                   Nói xong, gã bỏ đi. Đám học sinh kia cũng theo đó lục tục rời đi. Lúc này, thiếu niên mới từ từ bò dậy, cậu nhìn chằm chằm về hướng những người kia một lúc lâu rồi mới  khập khiễng đi về hướng khác.
+                   
+                   Hoài Ly quan sát hết mọi chuyện, em cảm thấy thiếu niên tóc vàng kia có hơi quen quen nhưng giây lát không nhớ ra là đã gặp ở đâu. Em cũng không đắn đo chuyện này lâu mà vội vàng quay về lớp học. Lớp của Hoài Ly là 11A4 ban tự nhiên, vì em không quen ai khối 11 nên Hoài gia để trường tự phân lớp.
+                   *page_break Tới lớp
+                   *goto classroom1
+                   
+               #Mặc kệ
+                   *set glacial +3
+                   *set emotion -2
+                   Đã sắp đến giờ vào lớp rồi, Hoài Ly không muốn ngày đầu đã đến muộn. Hơn nữa, đây cũng không phải việc của mình, em không rõ đầu đuôi mọi chuyện thì tốt nhất không nên xen vào.
+                   
+                   Chỉ là… em không ngờ sẽ chứng kiến bạo lực học đường ngay ngày đầu tiên đi học. Lại còn là trong một trường đạt chuẩn về mọi mặt, đứng đầu tỉnh và đứng top cả nước. Hoài Ly biết là ở đâu cũng có người xấu người tốt nhưng chuyện này vẫn làm em hơi ngỡ ngàng.
+                   
+                   Hoài Ly nhíu mi, xoay người rời khỏi rừng hoa. Lớp của em là A4 ban tự nhiên, vì em không quen ai khối 11 nên lớp nào cũng như nhau, Hoài gia để nhà trường tự phân.
+                   
+                *page_break Tới lớp
+                
+                Hoài Ly theo trí nhớ tới tòa nhà A ban tự nhiên, dọc theo hành lang tìm 11A4. Trên đường đi không ít ánh mắt hướng về Hoài Ly nhưng không ai dám tới bắt chuyện, có lẽ vì sợ để lại ấn tượng xấu hoặc đơn giản là ngại ngùng hay chưa tìm được cơ hội.
+                
+                Do trì hoãn một ít thời gian ở rừng hoa nên khi Hoài Ly đến lớp cũng là lúc trống báo. Hoài Ly mở cửa đi vào, không biết có phải cảm giác không nhưng hình như bọn họ đang thở phào cái gì đấy.
+                
+                Nghe thấy tiếng động, các học sinh đều đồng loạt hướng mắt ra cửa. Bọn họ sớm đã biết hôm nay có học sinh mới chuyển tới, chỉ là không biết người đó là ai thôi. Giờ nhìn thiếu niên đứng trước cửa, tất cả không khỏi ngẩn ngơ. Quá xinh đẹp, mi mục như họa, mắt ngọc mày ngài, ngũ quan tinh xảo đẹp đến phi giới tính. Một vài người không nhịn được mà bật thốt:
+                
+                "Trời đất, tao không lường trước được trường hợp này. Đẹp khiếp?!"
+                
+                Cùng với sự kinh diễm đó là một cảm giác thở phào nhẹ nhõm. Bởi vì… lúc nãy còn có người bày trò muốn dạy cho bạn học mới một bài học.
+                
+                Vì trường không phân lớp theo chất lượng học sinh nên lớp nào cũng có vài ba thành phần bất hảo. Nghe có học sinh mới chuyển đến là lại muốn "ma mới bắt nạt ma cũ". Cũng may Hoài Ly không đến sớm, quá sát giờ vào lớp nên bọn nó đã dẹp trò đó đi.
+                
+                "Cậu là học sinh mới phải không. Cậu tên gì vậy?" Một nữ sinh ra bắt chuyện. Đó là một thiếu nữ xinh xắn với mái tóc đen dài và đôi mắt lam to tròn, thoáng qua có nét gì đó rất tây. 
+                 
+                Hoài Ly mỉm cười trả lời, khóe miệng cong lên, hai má lộ ra núm đồng tiền vô cùng đáng yêu, "Ừm, mình tên Hoài Ly, còn cậu."
+                
+                Nữ sinh hơi đỏ mặt, cảm giác moe chết mất, "Mình là Lý Oanh Chi, lớp phó văn thể. Nếu cậu cần giúp gì cứ nói với mình."
+                
+                Các học sinh khác cũng xôn xao muốn đến gần bắt chuyện nhưng chưa kịp đi thì một giọng nói hung dữ vang lên, "Ồn ào cái gì, có mỗi thế thôi cũng ầm ĩ." Cả lớp bỗng chốc im thin thít, bởi lẽ người vừa nói Hoắc Thạc - "bưởng" trường.
+                
+                Đúng lúc này, Mạc Liên - cô chủ nhiệm lớp đi vào. Cô quan sát một vòng quanh lớp, lớp nhốn nháo không ra trật tự gì. Cô nhíu mày cao giọng quát, "Các anh chị biết là đã vào lớp rồi không. Về chỗ!"
+                
+                Các học sinh lục tục trở về chỗ ngồi, riêng Hoài Ly chưa được xếp chỗ vẫn đứng đó. Thấy Hoài Ly, mi mắt Mạc Liên giãn ra, nở nụ cười từ ái, "Hoài Ly đấy à. Lên đây giới thiệu với cả lớp đi em." Ánh mắt Mạc Liên cực kỳ dịu dàng, cô biết học sinh mới này có gia thế không đơn giản, hơn nữa thành tích học tập cũng tốt lại ngoan ngoãn, quả là mẫu học sinh thầy cô nào cũng thích.
+                *set met_HT true
+                *set met_LOC true
+                
+                Hoài Ly bước lên bục giảng hơi vẫy tay, "Mình là Hoài Ly… mong năm học này sẽ trải qua nhiều kỷ niệm đẹp với mọi người."
+             
+                Ở dưới tiếng vỗ tay vang lên ầm ầm, đến nỗi Hoắc Thạc đang nằm gục trên bàn cũng phải ngẩng đầu xem chuyện gì. Hắn cau mày, nhìn lên bục giảng.[i]Trắng nõn, nhỏ nhắn…con trai mà trông thế này sao? Kiểu… không biết nói sao nhưng rất gây chú ý.[/i]
+       
+                Trong lớp chỉ còn mỗi chỗ cạnh hắn là trống, có lẽ bạn học mới sẽ ngồi đây. Nghĩ vậy, Hoắc Thác có hơi mong chờ. 
+                
+                "Em có muốn ngồi cùng bàn với bạn nào không?" Giới thiệu xong, Mạc Liên hỏi Hoài Ly về vị trí chỗ ngồi.
+                
+                Hoài Ly chưa kịp trả lời thì Lý Oanh Chi ngồi dưới đã giơ cao tay cất giọng nói, "Em, ngồi gần em ạ. Lúc nãy bọn em có kết bạn rồi á cô, để bạn ngồi với em đi ạ." Vừa dứt câu, Lý Oanh Chi cảm thấy một luồng khí lạnh kế đến là cảm giác như ai đó lườm nguýt mình. Cô sờ sờ gáy, có chút nổi da gà.
+
+                Mạc Liên gật gật đầu hỏi Hoài Ly, "Em thấy sao?"
+                
+                "Được ạ." 
+                
+                "Vậy quyết định thế, Đàm An chuyển xuống chỗ cạnh Hoắc Thạc nhé."
+
+             
+                
+                
+                   
+                   
+           #Đi thẳng vào lớp
+              *label gostraight
+              *set health -3
+              Hoài Ly học 11A4, là một lớp thuộc ban tự nhiên. Vì em không quen ai khối 11 nên lớp nào cũng như nhau, Hoài gia để nhà trường tự phân.
+              
+              Hoài Ly theo trí nhớ tới tòa nhà A, dọc theo hành lang tìm 11A4. Trên đường đi không ít ánh mắt hướng về Hoài Ly nhưng không ai dám tới bắt chuyện, có lẽ vì sợ để lại ấn tượng xấu hoặc đơn giản là ngại ngùng hay chưa tìm được cơ hội.
+              
+              Bước chân Hoài Ly dừng lại trước cửa 11A4, em đẩy cửa bước vào. Chợt, trước mắt em trắng xóa, lồng ngực thắt lại, cảm giác khó thở dâng lên, xung quanh bụi bay mù mịt… [i]đây là bụi phấn?[/i]Em nghe thấy tiếng ồn ào xung quanh, không cần đoán cũng biết đây là trò đùa dai của những người này.
+              
+              Nghe tiếng cửa mở, 
+              
+              Hoài Ly ho khan, khuôn mặt xinh đẹp trắng bệch, em cúi người xuống lấy từ trong cặp ra ống hít. 
+             *choice
+                #Khóc
+                  *set coddle +1
+                  *set irascible +1
+                  .
+                #Nổi giận
+                  *set irascible +2
+                  .
+    #Làm nũng
+        *set coddle +2
+        
+        Hoài Ly vươn tay về phía Hoài Nguyên, mắt vẫn nhắm nghiền không muốn mở ra: "Anh hai, bồng em…" Hoài Ly làm nũng nói, giọng điệu ngọt ngào mềm mụp khó mà cưỡng lại.
+        
+        Trái tim Hoài Nguyên mềm nhũn, ai mà kháng cự được công chúa nhỏ làm nũng chứ. Hoài Nguyên bế Hoài Ly lên, để em nằm gọn trong vòng tay mình. Anh đi vào phòng tắm, lấy khăn nhẹ nhàng lau mặt cho em rồi nói, "Há miệng."
+        
+        Hoài Ly ngoan ngoãn há miệng ra để Hoài Nguyên đánh răng cho, đầu thì gật gà gật gù vẫn chưa tỉnh hẳn. Xong xuôi, Hoài Nguyên bế Hoài Ly ra ngoài bắt đầu chải tóc, thay đồng phục.  Đồng phục trường Hoài Ly bao gồm áo sơ mi trắng, quần tây và vest đen khoác ngoài, em mặc vào xinh đẹp quý khí không khác gì một tiểu vương tử bước ra từ đồng thoại.
+       
+       Trường Hoài Ly theo học là một trường tư tốt nhất trong tỉnh, thanh mai trúc mã của em - Trịnh Diệp Phương cũng học ở đây.
+       
+       Lúc Hoài Nguyên bế em xuống tầng, Hoài Ly mới bắt đầu tỉnh ngủ. Em nhỏ giọng đòi xuống, có lẽ vì thẹn thùng sợ người giúp việc và đầu bếp nhìn thấy. Hoài Nguyên đặt Hoài Ly ngồi xuống ghế trong phòng ăn, hôm nay bữa sáng có bánh mì với mứt dâu - món ăn yêu thích của em, Hoài Ly hảo ngọt nên những thứ gì ngọt ngào đều thích cả. Ăn xong, Hoài Ly cầm cặp sách đi ra xe chuẩn bị tới trường học. Em không muốn cao điệu nên chỉ để tài xế chở mình bằng một chiếc xe tầm trung không có gia huy của gia tộc, Hoài Nguyên thấy thế trong lòng không đồng tình nhưng vẫn thuận theo em.
+       
+       *page_break Tới trường
+       Xe dừng lại trường cổng trường, ngay khi Hoài Ly bước xuống xe gần như mọi ánh mắt đều đổ dồn đến hướng này. Đa phần đều vì diện mạo của thiếu niên quá bắt mắt. Hoài Ly rất đẹp, đẹp kiểu mềm mại ngoan ngoãn, làn da trắng nõn, mái tóc nâu đen màu hạt dẻ, mắt hạnh trong trẻo, thoạt nhìn tựa như thiên sứ nhỏ lạc xuống nhân gian.
+
+       Có tiếng khe khẽ bàn tàn, bọn họ tò mò không biết thiếu niên là ai, nếu trong trường có một người đẹp đến như vậy thì hẳn phải nổi tiếng rồi. [i]Có lẽ là học sinh mới chuyển tới?[/i]
+
+       Hoài Ly không để ý tiếng thảo luận xung quanh, hay nói đúng hơn em không biết người ta đang nói về mình. Đã lâu không đi học, thứ gì với Hoài Ly cũng thấy lạ lẫm. Em quan sát một vòng xung quanh, khuôn viên trường cực kỳ đẹp - nền lát đá ngay ngắn, những hàng cây xanh mướt, đài phun nước ngay giữa sân trường, ngoài ra còn có cả hồ sen, thư viện và sân bóng ở xa xa.
+       
+       Lúc này đã không còn sớm nên Hoài Ly chỉ nhìn qua bản đồ trường rồi đi thẳng tới lớp.
+       *page_break Tới lớp
+       *goto gostraight

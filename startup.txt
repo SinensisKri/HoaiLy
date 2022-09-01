@@ -1,0 +1,61 @@
+*title Hoài Ly
+*author Sinensis Kristallstern
+*scene_list
+   startup
+   arc1
+*create implicit_control_flow true  
+*create name "Hoài Ly"
+*create met_HT false
+*create met_HTV false
+*create met_LOC false
+*create met_KV false
+*create LU 0
+*create HT 0
+*create LOC 0
+*create met_ML false
+*comment =stats=
+*create pride 45
+*create rebellious 30
+*create glacial 40
+*create coddle 60
+*create irascible 30
+*create childish 55
+*create health 30
+*create emotion 50
+*create study 75
+*comment =achievement=
+*achievement alllove hidden 100 Chúng tinh phủng nguyệt
+    hidden
+    Nhận được muôn vàn sủng ái.
+*achievement cold hidden 50 Vô ái
+    hidden
+    Tập trung và học tập và sự nghiệp, từ chối mọi tình cảm.
+*achievement health visible 50 Lành mạnh
+    Chỉ số sức khỏe bằng hoặc trên 80
+    Sức khỏe là điều quan trọng nhất đối với con người
+*achievement study visible 50 Quái vật
+    Chỉ số học tập đạt 100
+    Học tập là chân ái.
+*achievement dark hidden 40 Hắc hóa báo động
+    hidden
+    Hãy cẩn thận với những cử chỉ và lời nói…
+*achievement gang visible 20 Hoắc Thạc
+    Yêu đương với Hoắc Thạc
+    Xác nhận tình cảm!
+*achievement phuong visible 20 Trịnh Diệp Phương
+    Yêu đương với Trịnh Diệp Phương
+    Xác nhận tình cảm!
+    
+Vì vấn đề sức khỏe Hoài Ly phải học tập tại nhà. Cho đến năm lớp 11 thuyết phục mãi gia đình mới để Hoài Ly tới học tại một trường tư hạng một của tỉnh. Từ đây cuộc sống học đường của Hoài Ly bắt đầu.
+
+Yêu đương, học tập, trải nghiệm cảm giác của thanh xuân trong trò chơi này. Bạn sẽ theo dõi câu chuyện dưới góc nhìn của Hoài Ly và đưa ra các lựa chọn thay ẻm.
+
+[b]LƯU Ý[/b]
+
+1. Người chơi không phải nhân vật chính, Hoài Ly mới là nhân vật chính. Mọi route tình cảm trong trò chơi là thuộc về Hoài Ly chứ không phải người chơi. 
+
+2. Hoài Ly là thụ/bot/uke, vui lòng không nhầm lẫn, không switch hay KY.
+
+3. Hoài Ly là bisexual. Có lựa chọn hẹn hò với nữ tùy bạn muốn hay không (Lưu ý: lựa chọn hẹn hò với nữ ít hơn với nam khá nhiều)
+
+*page_break Tiếp tục

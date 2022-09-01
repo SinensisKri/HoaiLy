@@ -1,0 +1,211 @@
+*label screen
+[i][b]Một vài thông tin cần biết về Hoài Ly, các chỉ số có thể bị thay đổi theo thời gian tùy theo lựa chọn của người chơi.[/i][/b]
+
+Chỉ số tâm trạng sẽ ảnh hưởng đến lựa chọn trong game, chỉ số tâm trạng quá thấp hoặc quá cao có thể gây ra những phản ứng khác nhau.
+
+[i](*)Lưu ý: Chỉ số tâm trạng cao thể hiện những cảm xúc tích cực còn chỉ số tâm trạng thấp là ngược lại.[/i]
+
+[b]CHỈ SỐ TÂM TRẠNG[/b]
+*stat_chart
+   percent emotion Tâm trạng
+*label main
+*choice
+    #Chỉ số tính cách
+      [b]CHỈ SỐ TÍNH CÁCH[/b]
+      *stat_chart
+        opposed_pair pride
+          Kiêu căng
+          Khiêm tốn
+      *if (pride <= 45)
+        [i]Là con nhà thế gia, Hoài Ly có một một sự ngạo mạn nhất định nhưng giáo dưỡng của gia tộc đã giữ cho em một thái độ đúng mực.[/i]
+      *elsif (pride >= 55)
+       [i]Có phần kiêu ngạo, nhưng liệu ai sẽ quan tâm một chút kiêu ngạo ấy của tiểu thiếu gia?[/i]
+      *elsif (pride >80)
+       [i]Kiêu ngạo là bản tính của tiểu thiếu gia.[/i]
+      *else 
+       [i]Hoài Ly biết lúc nào nên kiêu ngạo hay khiêm tốn.
+      *stat_chart
+        opposed_pair rebellious
+         Nổi loạn
+         Ngoan ngoãn
+      *if (rebellious <=40)
+       [i]Một đứa trẻ ngoan ngoãn, đó là điều Hoài Ly thường nhận được khi nghe những người lớn nói về mình.[/i]
+      *elsif (rebellious >=55)
+       [i]Hoài Ly có chút muốn làm thứ gì đó khác biệt [/i]
+      *elsif (rebellious >=70)
+       [i]Thật nhàm chán khi chỉ ngoan ngoãn phải không?[/i]
+      *else
+       [i]Cân bằng hoàn hảo giữa nổi loạn và ngoan ngoãn.[/i]
+      *stat_chart
+        opposed_pair irascible
+         Nóng tính
+         Kiềm chế
+      *if (irascible <=40)
+        [i]Hoài Ly luôn có cách ứng xử nhẹ nhàng và sự kiên nhẫn lớn. Có lẽ đây là thói quen em có được từ một gia tộc trâm anh thế phiệt.[/i]
+      *elsif (irascible >60)
+        [i]Tốt nhất đừng cư xử quá đáng với tiểu thiếu gia.[/i]
+      *else
+        [i]Cách ứng xử của Hoài Ly khá tùy hứng.[/i]
+      *stat_chart
+        opposed_pair glacial
+         Lạnh nhạt
+         Hòa đồng
+      *if (glacial <45)
+        [i]Đa số thời gian Hoài Ly đều tỏ ra thân thiện và hòa đồng với người đối diện.[/i]
+      *elsif (glacial >55)
+        [i]Hoài Ly không quá thích sự ồn ào và náo nhiệt cũng như làm quen với quá nhiều người.[/i]
+      *else 
+        [i]Như thế nào cũng được, có lẽ là tùy vào người đối diện là ai hoặc tâm trạng hiện tại Hoài Ly sẽ có cách cư xử khác nhau.[/i]
+      *stat_chart
+        opposed_pair coddle
+         Nũng nịu
+         Tự lập
+      *if (coddle>55)
+       [i]Là công chúa nhỏ trong nhà, tính cách Hoài Ly có chút nũng nịu.[/i]
+      *elsif (coddle >70)
+       [i]Hoài Ly thích hưởng thụ sự chiều chuộng của người khác.[/i]
+      *elsif (coddle <45)
+       [i]Dù được nuông chiều nhưng Hoài Ly rất tự lập.[/i]
+      *else
+       [i]Ở cạnh những người thân thiết Hoài Ly thường có phần trẻ con hơn, nhưng với những người xa lạ Hoài Ly vẫn rất chín chắn.[/i]
+      *goto main
+    #Chỉ số sức khỏe
+     [b]CHỈ SỐ SỨC KHỎE[/b]
+     *stat_chart
+        percent health Sức khỏe
+     *if (health <=30)
+       [i]Từ nhỏ đã ốm yếu, Hoài Ly có một sức khỏe không tốt.[/i]
+     *if (health <=15)
+       [i]Chỉ số đáng báo động, hãy để ý đến sức khỏe nhiều hơn.[/i]
+     *if (health <=5)
+       [i]…[/i]  
+     *elsif (health >=50)
+       [i]Sức khỏe đã được cải thiện rất nhiều.[/i] 
+     *elsif (health >80)
+       [i]Sức khỏe rất tốt, chế độ sinh hoạt lành mạnh.[/i]
+     *elsif (health =100)
+       [i]Đáng kinh ngạc.[/i]
+       
+     *goto main
+    #Chỉ số học tập
+      [b]CHỈ SỐ HỌC TẬP[/b]
+      *stat_chart
+        percent study Học tập
+      *if (study >=70)
+       [i]Dù cơ thể không khỏe mạnh nhưng Hoài Ly rất chú trọng học tập.[/i]
+      *elsif (study <=60)
+       [i]Có lẽ bên cạnh học tập thì vui chơi cũng khá cần thiết.[/i]
+      *elsif (study >=85)
+       [i]Hoài Ly là một học sinh giỏi trong top đầu của trường![/i]
+      *elsif (study =100)
+       [i]Xuất sắc.[/i]
+      *elsif (study <=30)
+       [i]Không quan tâm đến học tập.[/i]
+     *goto main
+    #Mối quan hệ
+      *label rela
+      *choice
+       #Người thân
+        *label fami
+        *choice
+          #Gia đình
+              
+           Hoài gia và Lan gia đều thuộc tầng lớp trâm anh thế phiệt.
+           
+           [b]CHA[/b]
+           
+           Hoài Chính Thiên, hiện tại là CEO của Hoài thị. Nghiêm khắc, đặt nhiều gánh nặng và áp lực lên con cả, với Hoài Ly buông thả hơn nhưng vẫn giữ nền nếp.
+           
+           [b]MẸ[/b]
+           
+           Lan Nguyệt Chi, giám đốc tại công ty của Lan gia. Không quá gò bó với con cái, chiều con út hơn.
+           
+           [i]Lúc sức khỏe Hoài Ly ổn định thì thích rủ chồng đi du lịch để Hoài Nguyên xử lý những chuyện còn lại.[/i]
+           
+           [b]ANH HAI[/b]
+           
+           Hoài Nguyên, lớn hơn Hoài Ly 8 tuổi, một người anh đáng tin cậy nhưng đôi khi quá chiều chuộng em trai. 
+           
+           [i]Không thích em trai yêu đương, cảm thấy như em trai bị người khác cướp mất.[/i]
+           *goto fami
+          #Họ hàng
+           [b]ANH HỌ[/b]
+           *goto fami
+          #Quay lại
+           *goto rela
+       #Bạn bè
+          *label friend
+        *choice
+          #Trịnh Diệp Phương
+           [b]TÓM TẮT[/b]
+           
+           Thanh mai trúc mã, dù ít hơn Hoài Ly một tuổi nhưng rất chững chạc, là người thay Hoài gia chăm sóc, chú ý sức khỏe, ăn uống may mặc của Hoài Ly.
+           
+           Tính cách khá lạnh lùng, khó gần, đôi khi hơi hung dữ nhưng cực kỳ thương Hoài Ly.
+           
+           [b]CẢM NHẬN CỦA HOÀI LY[/b]
+           
+           [i]"Nhiều khi không biết nó là anh trai hay tôi là anh trai nữa…Lúc nào cũng quản này quản kia, tôi đâu có mong manh đến vậy."[/i]
+           
+           [i]"Nói vậy chứ tôi rất quý Diệp Phương, nó là một người đáng để dựa vào."[/i]
+           
+           *goto friend
+           
+          #Khương Việt
+           [b]TÓM TẮT[/b]
+           
+           Bạn học cũ hồi cấp 2 của Hoài Ly.
+           
+           *if (met_KV) 
+             Tính cách tsundere, ác mồm ác miệng.
+            
+           [b]CẢM NHẬN CỦA HOÀI LY[/b]
+            
+           [i]"Khương Việt à? Có lẽ cậu ấy khá ghét tôi, tôi cũng không rõ tại sao nhưng cậu ấy thường xuyên tỏ thái độ khó chịu với tôi."[/i]
+            
+           [b]THÔNG TIN THÊM[b]
+            
+           Hoài Ly từng được học cấp 2 vài năm nhưng vì tinh trạng bệnh chuyển biến xấu nên lại nghỉ học.
+           *goto friend
+          *selectable_if (met_HT) #Hoắc Thạc
+           [b]TÓM TẮT[/b]
+           
+           Bưởng trường, trùm trường, đại ca giang hồ, nói chung là thành phần bất hảo.
+           
+           *if (HT >=1)
+            Là đại thiếu gia của Hoắc gia. Trông thì dữ tợn, khó gần nhưng thật ra khá tốt tính? Nói chung hắn không dữ với Hoài Ly bao giờ, thậm chí còn nhường và chiều Hoài Ly.
+           
+           [b]CẢM NHẬN CỦA HOÀI LY[/b]
+           
+          
+          *selectable_if (met_HTV) #Hạ Tư Vũ
+          *selectable_if (met_LOC) #Lý Oanh Chi
+           [b]TÓM TẮT [/b]
+           
+           Lớp phó văn thể, xinh xắn, thân thiện và dễ gần.
+           
+           *if (LOC >=1)
+            [b]CẢM NHẬN CỦA HOÀI LY[/b]
+           
+          *if (LU >=1) #Lê Uyên
+           [b]TÓM TẮT[/b]
+           
+           
+          #Quay lại    
+           *goto rela
+       #Tình yêu
+         
+         *goto rela
+       #Khác
+         *label other
+         *selectable if (met_ML) #Cô giáo chủ nhiệm
+           [b]TÓM TẮT[/b]
+           
+           Mạc Liễu, cô giáo chủ nhiệm. Là một người dễ gần, dịu dàng, quan tâm đến học sinh.
+                 
+         *goto rela
+       #Quay lại
+         *goto main
+    #Quay về stat
+     *goto screen
+     
